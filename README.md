@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikelangelo007
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me bestboy741@mail.ru
 
